@@ -18,8 +18,8 @@ My GitHub page is https://github.com/trenchs/trenchs.github.io.git.
     This lab is my favorite lab because I learnt how to play poker. In the future I will learn how to gamble and beat other people.
     My program is good that real people don't realize they are playing against a bot.
 
-Lab 9, part 1
+* Lab 9, part 1
 
-    This lab is one of my favorites because we got to calculate the average group of numbers and the mean. My partner and I really liked
-    working together on this lab because it was so easy for the both of us. We were able to split the workload and
-    complete it with ease. 
+    This lab is one of my favorites because we got to calculate the average group of numbers and the mean. 
+    My partner and I really liked working together on this lab because it was so easy for the both of us. 
+    We were able to split the workload and complete it with ease. 
